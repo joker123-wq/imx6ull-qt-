@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>boot.jpg</file>
+    </qresource>
+</RCC>
